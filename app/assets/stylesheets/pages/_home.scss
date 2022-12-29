@@ -1,1 +1,13 @@
 // Specific CSS for your home-page
+.background {
+    background-color: #8c44ff;
+}
+
+#home-button {
+    background-color: whitesmoke;
+    width: 200px;
+    border-width: 5px;
+    border-style: solid;
+    -o-border-image: conic-gradient(red, aqua, magenta, red) 1;
+    border-image: conic-gradient(red, aqua, magenta, red) 1;
+}
